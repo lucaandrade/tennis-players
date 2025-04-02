@@ -1,1 +1,1 @@
-# tennis-players
+A Java program that models tennis players and their attributes.
